@@ -1,5 +1,6 @@
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)
+
 <h1 align="center">Hi 👋, I'm Prabhanjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="user_profile" width="400" align="right"
