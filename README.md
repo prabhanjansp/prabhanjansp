@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Prabhanjan Shrinivas Puranik</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="user_profile" width="400" align="right"
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="user_profile" width="400" align="right" align="center"/>
 
 
 
