@@ -7,9 +7,9 @@
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhanjansp&label=Profile%20views&color=0e75b6&style=flat" alt="prabhanjansp" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhanjansp&label=Profile%20views&color=0e75b6&style=flat" alt="prabhanjansp" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhanjansp" alt="prabhanjansp" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhanjansp" alt="prabhanjansp" /></a> </p> -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="user_profile" width="400" align="right" align="center"/>
 
 # 💫 About Me:
